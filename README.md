@@ -27,5 +27,5 @@ Sexto semestre<br>
 Microsoft Graphics Hybrid: Not Supported
  DirectX Database Version: 1.0.8
            DxDiag Version: 10.00.19041.0928 64bit Unicode
-## Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
+## Versión de Python/Anaconda y de cada uno de los módulos/paquetes utilizados
 ## Explicación de la data utilizada
