@@ -5,9 +5,6 @@ Fecha: 25 de febrero del 2022<br>
 Correo: dilan.porras@est.ikiam.edu.ec<br> 
 Sexto semestre<br> 
 ## Características del computador
-------------------
-System Information
-------------------
       Time of this report: 2/25/2022, 21:19:56
              Machine name: DILANJHOEL
                Machine Id: {9A12274C-C370-4254-BE42-33A85FC14E71}
@@ -30,6 +27,5 @@ System Information
 Microsoft Graphics Hybrid: Not Supported
  DirectX Database Version: 1.0.8
            DxDiag Version: 10.00.19041.0928 64bit Unicode
-           
 ## Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
 ## Explicación de la data utilizada
